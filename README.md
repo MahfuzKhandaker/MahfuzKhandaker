@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Hi, My name is Mahfuz Khandaker. I'm a freelance Django developer. I do my backend tasks in Python Django, and I build cutting-edge, test-driven, and highly scalable Graphql APIs. This can work on a variety of databases and frontend frameworks. Thanks for looking, and I hope we can work together soon.
+
+![](https://www.canva.com/design/DAFMsvpBhGM/OooOoVpbDjSBYEe_W2wVFQ/edit?utm_content=DAFMsvpBhGM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 <!--
 **MahfuzKhandaker/MahfuzKhandaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
