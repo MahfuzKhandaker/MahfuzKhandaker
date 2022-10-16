@@ -1,10 +1,8 @@
-### Hi there 👋
-
+### Hi there!
 I am a self-taught Python Developer. I do my backend tasks in Python Django, and I build cutting-edge, test-driven, and highly scalable APIs using django rest framework and graphql. This can work on a variety of databases and frontend frameworks.. I'm familiar with Html, CSS, Bootstrap4, and mostly VueJS, a JavaScript framework on the front end.
 
-Thanks for looking, and I hope we can work together soon..
 
-![](https://www.canva.com/design/DAFMsvpBhGM/OooOoVpbDjSBYEe_W2wVFQ/edit?utm_content=DAFMsvpBhGM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![coverpro_github](https://user-images.githubusercontent.com/41839536/196054613-085a6920-5d60-45a4-8bc5-9df194b29edf.png)
 
 <!--
 **MahfuzKhandaker/MahfuzKhandaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
