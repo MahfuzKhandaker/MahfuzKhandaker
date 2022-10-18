@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 <!-- https://devicon.dev/ -->
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
 <div align="center">
+
  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
       <img  alt="Python" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   </a>
@@ -82,5 +83,8 @@ Here are some ideas to get you started:
   </a>
 </div>
 <br>
+<br>
+
+
 <br>
 
