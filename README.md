@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    I am a self-taught Python Developer. I do my backend tasks in Python Django, and I build cutting-edge, test-driven, and highly scalable APIs using django rest framework and graphql. This can work on a variety of databases and frontend frameworks.. I'm familiar with Html, CSS, Bootstrap4, and mostly VueJS, a JavaScript framework on the front end.
+    I am a self-taught Python Developer. I do my backend tasks in Python Django, and I build cutting-edge, test-driven, and highly scalable APIs using django rest framework and graphql. This can work on a variety of databases and frontend frameworks.. I'm familiar with Html, CSS, Bootstrap4, and mostly VueJS, a JavaScript framework on the front end. I focus on simplicity and value, and I am always open and willing to skills up of my learning path.
 <br>
 <br>
 <div align="center">
