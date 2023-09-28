@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 style="color: #44AEFB;"> Mahfuz Khandaker, Python Developer</h1>
+<h1 style="color: #44AEFB;"> Mahfuzur Rahman, Python Developer</h1>
 
 ![github_cover](https://user-images.githubusercontent.com/41839536/196265513-aa539872-37a6-4fa4-89ff-bd60768e83b0.gif)
 
